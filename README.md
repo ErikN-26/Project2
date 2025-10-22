@@ -1,1 +1,5 @@
-"# Project2" 
+Project Summary: For CS 210 Project Two I developed the Airgead Banking Investment calculator. The program allows the user to understand how their investments can grow over time based on the inputs they provide such as their initial deposit, monthly deposit, annual interest rate, and the number of years they wish to invest. The program shows two results, one is for showing the balance and interest earned without additional monthly deposits and the other is for showing results with additional monthly deposits. The problem that the program solved is the lack of understanding that some people may have about investing.
+
+What did you do particularly well?: I believe I made the program easy to follow by creating different methods for the results with or without additional monthly deposits. I also kept the code consistent and added the neccessary space to make the code readable. I also made the calculations accurate to the information provided.
+
+Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?: 
