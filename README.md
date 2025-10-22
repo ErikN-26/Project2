@@ -2,4 +2,10 @@ Project Summary: For CS 210 Project Two I developed the Airgead Banking Investme
 
 What did you do particularly well?: I believe I made the program easy to follow by creating different methods for the results with or without additional monthly deposits. I also kept the code consistent and added the neccessary space to make the code readable. I also made the calculations accurate to the information provided.
 
-Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?: 
+Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?: I could make the names of the class and methods shorter and more accurate to their functioins so that I can avoid future cofusion. I could also make it so that the information is saved to a text file so that the users can come back and view the results without having to do the proces again.
+
+Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network? The most challenging part of the project was writing the compound interest calculation correctly. To overcome this I went back and reviewed the provided functional requirements and made many changes to my code until I got the right answer.
+
+What skills from this project will be particularly transferable to other projects or course work?: throughout this project I was able to gain alot of experience with visual studio and I believe that will help me with further projects and course work.
+
+How did you make this program maintainable, readable, and adaptable?: I believe I kept the program maintainable and readable by following clean coding practices such as clear functiion structures and consistent indentation. I also added comments throughout the program to explain my thoughts. 
